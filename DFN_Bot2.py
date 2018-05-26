@@ -9,8 +9,7 @@ from discord.ext.commands import Bot
 
 
 BOT_PREFIX = ("?" , "!")
-TOKEN = 'NDQ3MDQ1NjY3NDQ2MTk0MTc2.DeB4Fw.4YMcN4AUUbaVWZpiZRBaCIQ7Q3Q'
-
+TOKEN = 'Secret ;) '
 client = Bot(command_prefix=BOT_PREFIX)
 
 diamondList = []
